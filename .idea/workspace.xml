@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6832628a-81d6-45e8-a652-871bf80e92c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/invoicely/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoicely/invoicely/invoicely/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/invoicely/invoicely/invoicely/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoicely/invoicely/invoicely/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/invoicely/invoicely/invoicely/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoicely/invoicely_vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoicely_vue/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/invoicely_vue/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoicely_vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/invoicely_vue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoicely_vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/invoicely_vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoicely_vue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/invoicely_vue/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoicely_vue/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/invoicely_vue/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoicely_vue/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/invoicely_vue/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoicely_vue/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/invoicely_vue/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/invoicely_vue" />
+  </component>
+  <component name="ProjectId" id="1wcx90wgLwre6XoZ9yKP9OJ0JvM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/invoicely/invoicely/manage.py" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="create_admin" type="PythonConfigurationType" factoryName="Python">
+      <module name="Vue_Django_Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/invoicely" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/invoicely/manage.py" />
+      <option name="PARAMETERS" value="createsuperuser" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="Vue_Django_Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/invoicely/invoicely" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/invoicely/invoicely/manage.py" />
+      <option name="PARAMETERS" value="runserver localhost:8000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.create_admin" />
+      <item itemvalue="Python.main" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6832628a-81d6-45e8-a652-871bf80e92c6" name="Changes" comment="" />
+      <created>1628771522952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628771522952</updated>
+      <workItem from="1628771526507" duration="2000" />
+      <workItem from="1628771559160" duration="8048000" />
+      <workItem from="1628782130956" duration="653000" />
+      <workItem from="1628783038711" duration="729000" />
+      <workItem from="1628815393894" duration="2076000" />
+      <workItem from="1628855905229" duration="1488000" />
+      <workItem from="1628859310046" duration="3926000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Vue_Django_Learning$main.coverage" NAME="main Coverage Results" MODIFIED="1628860884312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/invoicely/invoicely" />
+    <SUITE FILE_PATH="coverage/Vue_Django_Learning$create_admin.coverage" NAME="create_admin Coverage Results" MODIFIED="1628817255512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/invoicely" />
+  </component>
+</project>
